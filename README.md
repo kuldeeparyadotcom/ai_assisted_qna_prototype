@@ -3,7 +3,12 @@ This git repo is just to demonstrate one of the ways to build an AI assisted que
 1. System allows user to upload a pdf file via /upload endpoint.
 2. Once file is uploaded successfully, user can ask questions using /ask endpoint and system tries to answer it only based on that uploaded document.
 3. Systems is expected to not respond to the questions that are not relevant to the uploaded document.
-##### Please Note - It's not a RAG (Retrieval Augmented Generation), so at some places naming convention may be misleading, I intend to build a new prototype that will be a RAG :)
+##### Please Note - It's not a RAG (Retrieval Augmented Generation), so at some places naming convention may be misleading, I published a new prototype that is based on RAG :)
+
+# Blog
+Check out Blog for pros and cons of both approaches - RAG vs LLM.
+
+https://medium.com/@kuldeeparyadotcom/ai-powered-question-answering-exploring-two-approaches-llm-vs-rag-fe92114b305b
 
 # How to build and run this code
 
